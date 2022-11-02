@@ -1,3 +1,9 @@
+//* Collection:-The Collection in Java is a framework
+//that provides an architecture to store and manipulate the group of objects.
+//package Collection;
+//Arraylist:- the arraylist implements list interface and it uses a dynamic array to store the 
+//duplicate elements of different  data types.
+//*/
 package Java.ac;
 
 import java.util.ArrayList;
